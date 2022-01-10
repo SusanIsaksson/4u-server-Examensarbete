@@ -1,0 +1,25 @@
+{
+  "name": "4u-server-examensarbete",
+  "version": "1.0.0",
+  "description": "Examensarbete WIE20G  - server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SusanIsaksson/4u-server-Examensarbete.git"
+  },
+  "author": "Susan Isaksson, Linda Gustafsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SusanIsaksson/4u-server-Examensarbete/issues"
+  },
+  "homepage": "https://github.com/SusanIsaksson/4u-server-Examensarbete#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "joi": "^17.5.0",
+    "moment": "^2.29.1"
+  }
+}
